@@ -1,3 +1,4 @@
+
 # Lab-10
 
 # FIFA 21 Dataset
@@ -107,3 +108,8 @@ pip install pandas numpy matplotlib scikit-learn
 
 The California Housing dataset analysis provides insights into housing trends and prices in different regions of California. The analysis can be useful for understanding the factors that influence housing prices and making informed decisions in the real estate market.
 The California Housing dataset analysis provides insights into housing trends and prices in different regions of California. The analysis can be useful for understanding the factors that influence housing prices and making informed decisions in the real estate market.
+
+
+References for the Datasets:
+1. https://www.kaggle.com/datasets/camnugent/california-housing-prices
+2. https://www.kaggle.com/datasets/aayushmishra1512/fifa-2021-complete-player-data
